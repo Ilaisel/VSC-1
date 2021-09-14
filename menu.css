@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+
+div{
+    background-color: darkblue;
+    color: white;
+}
+
+#container2 {
+  background-color: lightgreen;
+}
