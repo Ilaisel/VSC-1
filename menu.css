@@ -1,15 +1,9 @@
 body {
-    background-color: aqua;
+    background-color: blue;
 }
+.topnav {
 
-div{
-    background-color: darkblue;
-    color: white;
-}
-
-#container2 {
-  background-color: lightgreen;
-}
-
-.green{
+  overflow:hidden;
+  background-color: lightgray;
+  text-align: center;
 }
